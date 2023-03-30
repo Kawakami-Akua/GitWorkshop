@@ -1,0 +1,5 @@
+// メイン関数の実装
+int Main(void)
+{
+	return 0;
+}
