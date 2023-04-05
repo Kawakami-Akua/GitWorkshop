@@ -1,5 +1,8 @@
-// メイン関数の実装
-int Main(void)
+class Program
 {
-	return 0;
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello World!");
+    }
 }
+ 
